@@ -16,13 +16,13 @@ global.gopay = '0821-4520-3493'
 global.namebot = 'Sabo - MD'
 global.gc = 'https://chat.whatsapp.com/BXRH5ApRnbaHm6ULbPuG4d'
 global.web = 'https://chat.whatsapp.com/BXRH5ApRnbaHm6ULbPuG4d' //ubah jadi website lu, bisa link ig, link github, link yt, klo link gc ntr beda tampilan lagi. 
-global.price1 = '1 Minggu = 5.000\n1 Bulan = 8.000\nPermanent = 12.000'
+global.price1 = 'Hi Kak, Ingin Sewabot?\n\nHarga Sewa Sabo - MD\n⭔ Rp.5.000 PERMINGGU\n⭔ Rp.8.000 PERBULAN\n⭔ Rp.12.000 PERMANENT\n\nPembayaran Bisa Via Dana/Gopay/Ovo/Qris All Payment'
 
 //=======『 Tampilan Dan Lainnya 』============//
 global.fotonya1 = 'https://telegra.ph/file/e4a2f4339da8a32ad20a1.jpg' //ganti jadi foto bot mu
 global.fotonya2 = 'https://telegra.ph/file/8c471d45b6cedad43cf84.jpg' //ini juga ganti 
 global.lolkey = 'Papah-Chan' //biar mudah ngegantinya semisal apikeynya expired:v
-global.zenzkey = 'BagasPrdn' //ganti jadi apikey lu kalau expired
+global.zenzkey = 'netrogembel' //ganti jadi apikey lu kalau expired
 global.wm = 'Sabo - MD'
 global.watermark = wm
 global.wm2 = '                     「 Sabo - MDあ⁩ 」'
