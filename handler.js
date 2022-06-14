@@ -706,17 +706,17 @@ module.exports = {
                             pp = await this.profilePictureUrl(user, 'image')
                         } catch (e) {
                         } finally {
-                            text = (action === 'add' ? (chat.sWelcome || this.welcome || conn.welcome || 'Yah,si Beban Masuk Grup').replace('@subject', groupMetadata.subject).replace('@desc', groupMetadata.desc.toString()) :
-                                (chat.sBye || this.bye || conn.bye || 'Sip, Beban Berkurang 1'))
-                                this.sendButtonImg(id, pp, text, "Group Message", "Hi Beban 👋", "wkwk", null)
+                            text = (action === 'add' ? (chat.sWelcome || this.welcome || conn.welcome || 'Yaelah, Ada Beban Masuk').replace('@subject', groupMetadata.subject).replace('@desc', groupMetadata.desc.toString()) :
+                                (chat.sBye || this.bye || conn.bye || 'Mantep, Beban Gc Ngurang 🗿'))
+                                this.sendButtonImg(id, pp, text, "Group Message", "Ok", "ok", null)
                                 }
                     }
                 }
                 break
             case 'promote':
-                text = (chat.sPromote || this.spromote || conn.spromote || '@user ```is now Admin```')
+                text = (chat.sPromote || this.spromote || conn.spromote || '@user ```GG Di Jadiin Admin```')
             case 'demote':
-                if (!text) text = (chat.sDemote || this.sdemote || conn.sdemote || '@user ```is no longer Admin```')
+                if (!text) text = (chat.sDemote || this.sdemote || conn.sdemote || '@user ```Awoakaoao Di Unadmin```')
                 text = text.replace('@user', '@' + participants[0].split('@')[0])
                 if (chat.detect) this.sendMessage(id, text, MessageType.extendedText, {
                     contextInfo: {
@@ -746,14 +746,14 @@ Untuk mematikan fitur ini, ketik
 
 global.dfail = (type, m, conn) => {
     let msg = {
-        rowner: 'Perintah ini hanya dapat digunakan oleh _*OWWNER!1!1!*_',
-        owner: 'Perintah ini hanya dapat digunakan oleh _*Owner Bot*_!',
-        mods: 'Perintah ini hanya dapat digunakan oleh _*Moderator*_ !',
-        premium: 'Perintah ini hanya untuk member _*Premium*_ !',
-        group: 'Perintah ini hanya dapat digunakan di grup!',
-        private: 'Perintah ini hanya dapat digunakan di Chat Pribadi!',
-        admin: 'Perintah ini hanya untuk *Admin* grup!',
-        botAdmin: 'Jadikan bot sebagai *Admin* untuk menggunakan perintah ini!',
+        rowner: '*Fitur Ini Hanya Bisa Digunakan Oleh Owner*',
+        owner: '*Fitur Ini Hanya Bisa Digunakan Oleh Owner Bot*',
+        mods: '*Perintah Ini Hanya Bisa Digunakan Oleh Moderator*',
+        premium: '*Perintah Ini Hanya Bisa Digunakan Oleh Member Premium*',
+        group: '*Perintah Ini Hanya Bisa Digunakan Di Grup*',
+        private: '*Perintah Ini Hanya Bisa Digunakan Di Private Message*',
+        admin: '*Perintah Ini Hanya Bisa Digunakan Oleh Admin Grup*',
+        botAdmin: '*Jadikan Bot Sebagai Admin Terlebih Dahulu Untuk Menggunakan Fitur Ini*',
         unreg: 'Silahkan daftar untuk menggunakan fitur ini dengan cara mengetik:\n\n*#daftar nama.umur*\n\nContoh: *#daftar Manusia.16*',
         restrict: 'Fitur ini di *disable*!'
     }[type]
