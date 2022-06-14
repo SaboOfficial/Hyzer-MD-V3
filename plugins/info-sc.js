@@ -14,7 +14,7 @@ Hai ${ye} Lagi Nyari Sc Ya?
 Nih Link Sc Nya Dibawah :
 https://cararegistrasi.com/14jOhm9QglE
 
-_*Jangan Lupa Di Subscribe*_`
+_*Kenapa Make Semawur? Biar Gw Dapet Duit Lah 😅☝️*_`
 conn.sendBut(m.chat, esce, wm3, 'Thanks', 'thanks', m) 
 }
 handler.help = ['sc', 'sourcecode']
