@@ -2,7 +2,7 @@
 <img src="https://telegra.ph/file/677780c08cc83059ac934.jpg" alt="Hyzer Md-V3" width="300" />
 
 </p>
-<h1 align="center">Hyzer Official</h1>
+<h1 align="center">Sabo Official</h1>
 
 >
 >
@@ -35,7 +35,7 @@
 
 WhatsApp Bot Multi Device
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Hyzerr/MD-V3)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/SaboOfficial/Hyzer-MD-V3)
 
 
 # Heroku Buildpack
@@ -47,9 +47,9 @@ WhatsApp Bot Multi Device
 | **Node.js**     | heroku/nodejs|
 
 # Creator Bot
- [![Ilman](https://github.com/ilmanhdyt.png?size=200)](https://github.com/ilmanhdyt) | [![Hyzer](https://github.com/Hyzerr.png?size=200)](https://github.com/Hyzerr) 
+ [![Ilman](https://github.com/ilmanhdyt.png?size=200)](https://github.com/ilmanhdyt) | [![Sabo](https://github.com/Hyzerr.png?size=200)](https://github.com/SaboOfficial) 
 ----|----
-[Ilman](https://github.com/ilmanhdyt) | [Hyzer](https://github.com/Hyzerr)
+[Ilman](https://github.com/ilmanhdyt) | [Sabo](https://github.com/SaboOfficial)
  Author | Creator
  
 ### Hyzer Statistics
