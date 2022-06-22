@@ -16,7 +16,7 @@ global.gopay = '0821-4520-3493'
 global.namebot = 'Sabo - MD'
 global.gc = 'https://chat.whatsapp.com/BXRH5ApRnbaHm6ULbPuG4d'
 global.web = '' //ubah jadi website lu, bisa link ig, link github, link yt, klo link gc ntr beda tampilan lagi. 
-global.price1 = 'Hi Kak, Ingin Sewabot?\n\nHarga Sewa Sabo - MD\n⭔ Rp.5.000 PERMINGGU\n⭔ Rp.8.000 PERBULAN\n⭔ Rp.12.000 PERMANENT\n\nPembayaran Bisa Via Dana/Gopay/Ovo/Qris All Payment'
+global.price1 = 'Hi Kak, Ingin Sewabot?\n\nHarga Sewa Sabo - MD\n⭔ Rp.5.000 PERMINGGU\n⭔ Rp.8.000 PERBULAN\n⭔ Rp.12.000 PERMANENT\n\nPembayaran Bisa Via Dana/Gopay/Qris All Payment'
 
 //=======『 Tampilan Dan Lainnya 』============//
 global.fotonya1 = 'https://telegra.ph/file/e4a2f4339da8a32ad20a1.jpg' //ganti jadi foto bot mu
