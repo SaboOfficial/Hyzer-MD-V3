@@ -22,7 +22,7 @@ global.price1 = 'Hi Kak, Ingin Sewabot?\n\nHarga Sewa Sabo - MD\n⭔ Rp.5.000 PE
 global.fotonya1 = 'https://telegra.ph/file/e4a2f4339da8a32ad20a1.jpg' //ganti jadi foto bot mu
 global.fotonya2 = 'https://telegra.ph/file/8c471d45b6cedad43cf84.jpg' //ini juga ganti 
 global.lolkey = 'Papah-Chan' //biar mudah ngegantinya semisal apikeynya expired:v
-global.zenzkey = 'netrogembel' //ganti jadi apikey lu kalau expired
+global.zenzkey = 'BagasPrdn' //ganti jadi apikey lu kalau expired
 global.wm = 'Sabo - MD'
 global.watermark = wm
 global.wm2 = '                     「 Sabo - MDあ⁩ 」'
@@ -35,9 +35,9 @@ global.wait = '_*tunggu sedang di proses...*_'
 global.eror = '_*Server Error*_'
 global.benar = 'Benar ✅\n'
 global.salah = 'Salah ❌\n'
-global.stiker_wait = 'Stiker sedang dibuat'
-global.packname = 'Sabo'
-global.author = 'Sabo - MD'
+global.stiker_wait = '*Sticker Lagi Dibuat'
+global.packname = ''
+global.author = 'Created By Sabo\nFollow Tiktod\n@dzyyours'
 
 //=============『 Apikey 』================== //
 global.APIs = { // API Prefix
