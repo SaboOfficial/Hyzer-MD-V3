@@ -15,7 +15,7 @@ Jan Lupa Join Group Bot Kami
   productListInfo: {
   productSections: [{
   title:'Klik untuk order',
-  products:[{productId:'5370437279687043'}]}],
+  products:[{productId:'4900004496777133'}]}],
   headerImage: { productId: '4900004496777133', 
   jpegThumbnail: d },
   businessOwnerJid: `${owner[0]}@s.whatsapp.net`
